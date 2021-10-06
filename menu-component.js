@@ -1,6 +1,9 @@
 let template = document.createElement("template");
 template.innerHTML =`
 <link rel="styleSheet" href="css/menu-component.css">
+<style>
+
+</style>
 
 <div class="navbar">
  <a class="open" href="#!">&equiv;</a>
