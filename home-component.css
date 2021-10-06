@@ -1,0 +1,77 @@
+.container{
+ width:100vw;
+ height:100vh;
+    background: url(../img/webhome.jpg) no-repeat;
+   background-position: center center;
+   background-size: cover;
+  margin-top: -170px;
+
+}
+
+.para1{
+    position: absolute;
+  top:40%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  z-index: 999;
+  text-align: center;
+  font-size: 24px;
+  font-family: monospace;
+  color:white;
+  background: #000;
+  box-shadow: 2px 2px 4px white;
+  
+}
+
+.learnMore{
+    width: 140px;
+    height:40px;
+    background: black;
+    border-radius: 14px;
+    position: absolute;
+    top:70%;
+  left:50%;
+   transform:translate(-50%,-50%);
+  cursor:pointer;
+}
+
+.learnMore a{
+  color:white;
+  text-align: center;
+  text-decoration: none;
+   font-size: 20px;
+  font-family: monospace;
+}
+
+.awesome{
+  font-size: 28px;
+  font-family: cursive;
+  animation : anim 5s ease-in-out alternate-reverse infinite;
+  transition :9s;
+}
+
+@keyframes anim{
+    0% {
+    font-size: 15px;
+  font-family: cursive;    
+    }
+    
+    30% {
+    font-size: 28px;
+  font-family: helvetica;
+  color: dodgerblue;
+    }
+    
+    60% {
+    font-size: 28px;
+  font-family: courier new;
+  color: green;
+    }
+    
+    100% {
+    font-size: 28px;
+  font-family: fantasy;
+  color: #ff5400;
+    }
+    
+}
