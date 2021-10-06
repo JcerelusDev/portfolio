@@ -1,0 +1,16 @@
+{
+ "homepage": "https://github.com/JcerelusDev/jcerelusdev-portfolio",
+  "name": "projects",
+  "version": "1.1.0",
+  "description": "My portfolio",
+  "main": "./index.js",
+  "scripts": {
+    "deploy": " gh-pages -d public/index.html"
+  },
+  "keywords": [],
+  "author": "JcerelusDev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
