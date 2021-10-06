@@ -1,6 +1,5 @@
 let template = document.createElement("template");
 template.innerHTML =`
-<link rel="styleSheet" href="css/menu-component.css">
 <style>
 *{
  margin:0;
