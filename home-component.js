@@ -1,7 +1,7 @@
 let template = document.createElement("template");
 
 template.innerHTML = `
-<!--<link rel="styleSheet" href="css/home-component.css">-->
+
 <style>
 .container{
  width:100vw;
