@@ -6,7 +6,7 @@ template.innerHTML = `
 .container{
  width:100vw;
  height:100vh;
-    background: url(../img/webhome.jpg) no-repeat;
+    background: url(img/webhome.jpg) no-repeat;
    background-position: center center;
    background-size: cover;
   margin-top: -170px;
