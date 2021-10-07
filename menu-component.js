@@ -255,7 +255,7 @@ let  SidebarLink =   shadow.querySelectorAll(".sidebar a");
   function autoClose( ){
    var sidebar =  shadow.querySelector(".sidebar");
    sidebar.style.width = "0px";
-   sidebar.style.transition="2s";
+   sidebar.style.transition="1.5s";
    sidebar.style.opacity=0;
     openSidebar.display="block";
    } 
