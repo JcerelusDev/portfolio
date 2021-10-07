@@ -70,7 +70,7 @@ margin-left: 55px;
 
 
 .link:hover{
- background: green;   
+ background: orange;   
     
 }
 
@@ -87,7 +87,7 @@ margin-left: 55px;
   width:100vw;
   height:190px;
   position: fixed;
-
+overflow:hidden;
 }
 
 .copy{
