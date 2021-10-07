@@ -128,6 +128,7 @@ background-size:var(--bgSize);
  text-align:left;
  font-size:13px;
  font-family:cursive;
+
 }
 
 .content7 h3{
@@ -169,11 +170,12 @@ font-weight:bold;
  text-align:left;
  font-size:14px;
  font-family:monospace;
+margin-left:2%;
 }
 
  .content7 h3{
  font-size:18px;
-padding-top :98px;
+padding-top :100px;
 text-align:center;
  color:white;
  font-family:monospace;
@@ -181,7 +183,7 @@ text-align:center;
 }
 
 .content7 p{
-   padding-top:4px;
+   padding-top:6px;
 text-align:center;
  color:white;
  font-size:16px;
