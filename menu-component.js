@@ -133,7 +133,7 @@ color:red;
  margin-left: -20%;
 }
 
-footer{
+.footer{
  background:#000;
   width:100vw;
   height:210px;
