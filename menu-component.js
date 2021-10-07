@@ -43,7 +43,7 @@ margin-left: 55px;
   
   
   .sidebar{
-  background:#900;
+  background:#000;
   width:0px;
   height:95vh;
   position: fixed;
@@ -134,7 +134,7 @@ color:red;
 }
 
 footer{
- background:#120000;
+ background:#000;
   width:100vw;
   height:210px;
   position: fixed;
