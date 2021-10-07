@@ -248,14 +248,14 @@ if(e.target.className.includes("contact")){
 
 let  SidebarLink =   shadow.querySelectorAll(".sidebar a");
  for(let Sidelink of SidebarLink){
- Sidelink.onclick = autoClose;
+ Sidelink.ontouchstart = autoClose;
 
  }
  
   function autoClose( ){
    var sidebar =  shadow.querySelector(".sidebar");
    sidebar.style.width = "0px";
-   sidebar.style.transition="1.5s";
+   sidebar.style.transition="1s";
    sidebar.style.opacity=0;
     openSidebar.display="block";
    } 
@@ -265,7 +265,7 @@ let  SidebarLink =   shadow.querySelectorAll(".sidebar a");
 
     
     
-   shadow.querySelector(".footer").style.top= innerHeight -30+"px"; 
+   shadow.querySelector(".footer").style.top= innerHeight -70+"px"; 
     
     }  
 }
