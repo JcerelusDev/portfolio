@@ -29,15 +29,15 @@ height:160px;
 }
 
 #profileInfo{
- background: rgba(0,0,0,0.5);
+  border: 2px dotted black;
+ background: lightgrey;
  color:black;
  font-family: monospace;
   text-align: center;
  font-size: 17px;
  border-radius: 20px;
- box-shadow: 0 0 8px black;
+ box-shadow: 2px 3px 1px black;
  font-weight: bold;
-color:white;
 }
 
 
@@ -48,19 +48,20 @@ color:white;
   border-radius: 50%;
   background: white;
   margin-top:5px;
-  box-shadow: 0 0 8px black;
+  box-shadow: 1px 5px 1px black;
  
 }
 
 @media screen and (max-width:768px){
 #profileInfo{
- 
- background: rgba(0,0,0,0.5);
- color:white;
+  
+  border: 2px dotted black;
+ background: lightgrey;
+ color:black;
  font-family: monospace;
  font-size: 16px;
  border-radius: 30px;
- box-shadow: 0 0 8px black;
+ box-shadow: 2px 3px 1px black;
  font-weight: bold;
 }
   
