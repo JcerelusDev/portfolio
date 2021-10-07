@@ -36,7 +36,7 @@ margin-left: 55px;
     left:65%;
     width:50px;
     height:50px;
-    top:1.5%;
+    top:2%;
   }
   
   
@@ -87,14 +87,14 @@ margin-left: 55px;
   width:100vw;
   height:190px;
   position: fixed;
-overflow:hidden;
+
 }
 
 .copy{
  text-align: center;
  color:white;
  font-family: monospace;
- line-height: 75px;
+ line-height: 73px;
  font-size: 16px;
 }
 
@@ -132,6 +132,24 @@ color:red;
  //display:none;
  margin-left: -20%;
 }
+
+footer{
+ background:#120000;
+  width:100vw;
+  height:210px;
+  position: fixed;
+overflow:hidden;
+}
+
+.copy{
+ text-align: center;
+ color:white;
+ font-family: monospace;
+ line-height: 73px;
+ font-size: 12px;
+}
+
+
  
 }
 
