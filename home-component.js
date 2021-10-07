@@ -29,8 +29,8 @@ template.innerHTML = `
 }
 
 .learnMore{
-    width: 140px;
-    height:40px;
+    width: 210px;
+    height:60px;
     background: black;
     border-radius: 14px;
     position: absolute;
@@ -66,7 +66,7 @@ template.innerHTML = `
     }
     
     60% {
-  color: green;
+  color: gold;
     }
     
     100% {
