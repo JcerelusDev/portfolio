@@ -35,7 +35,7 @@ flex: 1 0 20%;
 margin:3%;
 //margin-bottom: 50px;
 box-shadow: 0 0 10px black;
-background:green;
+
 }
 
 .items a{
@@ -182,7 +182,7 @@ text-align:center;
 }
 
 .content7 p{
-   padding-top:4px;
+   padding-top:6px;
 text-align:center;
  color:white;
  font-size:16px;
