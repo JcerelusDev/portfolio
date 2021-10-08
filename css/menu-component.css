@@ -96,12 +96,20 @@ font-weight:bold;
  font-size: 16px;
 }
 
-.logolink{
+.logolink1{
 color:white;
 font-size:14px
 margin-top:3px;
 text-decoration:none;
 }
+
+.logolink2{
+color:white;
+font-size:14px
+margin-top:3px;
+text-decoration:none;
+}
+
 
 #icon{
 width:30px;
@@ -154,13 +162,26 @@ color:red;
 }
 
 
-.logolink{
+.logolink1{
+position:relative;
+top: 3px;
 color:white;
 text-decoration:none;
 z-index:9999;
 float:left;
-padding-left: 60px;
+left: 60px;
 }
+
+.logolink2{
+position:relative;
+top:3px;
+color:white;
+text-decoration:none;
+z-index:9999;
+float:left;
+left: 140px;
+}
+
 
 #icon{
 width:30px;
