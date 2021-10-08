@@ -28,7 +28,7 @@ box-shadow: 0 0 10px black;
 width:90vw;
 display: flex;
  justify-content: center;
-
+margin: 0px auto;
 }
 
 
