@@ -8,6 +8,7 @@ import aboutComponent from "./about-component.js";
 import projectsComponent from "./projects-component.js";
 import contactComponent from "./contact-component.js";
 
+alert("Ok")
 const renderMenu = function(){
  let menu_component =  document.createElement("menu-component");
   document.body.appendChild(menu_component);
