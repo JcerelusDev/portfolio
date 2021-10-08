@@ -16,6 +16,7 @@ const renderMenu = function(){
 };
 
 let View = document.querySelector("#root");
+alert(View)
 export default View;
 
  
