@@ -1,13 +1,17 @@
 import Ajaxy  from "./ajaxy.js";
 import routing  from "./route.js";
 import {servePage} from "./route.js";
-
 import menuComponent from "./menu-component.js";
 import homeComponent from "./home-component.js";
 import aboutHeaderComponent from "./about-header-component.js";
 import aboutComponent from "./about-component.js";
 import projectsComponent from "./projects-component.js";
 import contactComponent from "./contact-component.js";
+
+var AwesomeScript = document.createElement("script")
+AwesomeScript.src="all.min.js"
+document.body.appendChild(AwesomeScript);
+
 
 const renderMenu = function(){
  let menu_component =  document.createElement("menu-component");
