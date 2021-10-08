@@ -16,7 +16,7 @@ display: flex;
  font-size: 13px;
  font-weight: bold;
  font-style: italic;
-border : 5px double black;
+border-shadow: 0 0 10px black;
  text-align: center;
  border-radius: 20px;
 }
@@ -38,7 +38,7 @@ margin :0px auto;
  font-size: 13px;
  font-weight: bold;
  font-style: italic;
-border : 3px double black;
+border-shadow: 0 0 10px black;
  text-align: center;
  border-radius: 20px;
 }  
