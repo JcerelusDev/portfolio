@@ -65,7 +65,7 @@ height:160px;
 
 
 
-<h3>About Me Section</h3>
+<h3>About Me Section</h3><br>
 <div class="container">
 <div id="profileInfo">
 <img class="profile" src="img/jcere.png" widdth="100" height="100">
