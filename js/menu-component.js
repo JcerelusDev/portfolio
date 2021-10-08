@@ -2,6 +2,8 @@ let template = document.createElement("template");
 template.innerHTML =`
 <link rel="styleSheet" href="css/menu-component.css">
 
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/js/all.min.js" integrity="sha512-cyAbuGborsD25bhT/uz++wPqrh5cqPh1ULJz4NSpN9ktWcA6Hnh9g+CWKeNx2R0fgQt+ybRXdabSBgYXkQTTmA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 
 <div class="navbar">
  <a class="open" href="#!">&equiv;</a>
@@ -21,15 +23,15 @@ template.innerHTML =`
 </div>
 
 
-<div class="footer">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/js/all.min.js" integrity="sha512-cyAbuGborsD25bhT/uz++wPqrh5cqPh1ULJz4NSpN9ktWcA6Hnh9g+CWKeNx2R0fgQt+ybRXdabSBgYXkQTTmA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
+<div class="footer">
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
 <a href="https://www.facebook.com/jcerelus/"><i class="fab fa-facebook"></i></a>
 <a href="https://www.facebook.com/jcerelus/"><i class="fab fa-instagram"></i></a>
 
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/js/all.min.js" integrity="sha512-cyAbuGborsD25bhT/uz++wPqrh5cqPh1ULJz4NSpN9ktWcA6Hnh9g+CWKeNx2R0fgQt+ybRXdabSBgYXkQTTmA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
 `;
