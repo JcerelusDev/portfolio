@@ -1,7 +1,7 @@
 let template = document.createElement("template");
 template.innerHTML =`
 <link rel="styleSheet" href="css/menu-component.css">
-<script src="js/all.min.js"></script>
+<script src="all.min.js"></script>
 <div class="navbar">
  <a class="open" href="#!">&equiv;</a>
    <a class="link home" href="#/">Home</a>
