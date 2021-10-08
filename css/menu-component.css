@@ -105,8 +105,8 @@ background:red;
 }
 
 .icon{
-width:100px;
-height:100px;
+width:10px;
+height:10px;
 background:white;
 margin-left: 170px;
 border-radius: 50%;
@@ -150,10 +150,29 @@ color:red;
 .footer{
  background:#000;
   width:100vw;
-  height:190px;
+  height:220px;
   position: fixed;
 
 }
+
+
+.footer a{
+color:white;
+font-size:14px
+margin-top:3px;
+text-decoration:none;
+background:red;
+}
+
+.icon{
+width:10px;
+height:10px;
+background:white;
+padding-left: 170px;
+border-radius: 50%;
+
+}
+
 
  
 }
