@@ -182,7 +182,7 @@ text-align:center;
 }
 
 .content7 p{
-   padding-top:6px;
+   padding-top:10px;
 text-align:center;
  color:white;
  font-size:16px;
