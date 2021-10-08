@@ -159,7 +159,8 @@ color:white;
 margin-top:3px;
 text-decoration:none;
 z-index:9999;
-
+float:left;
+padding-left: 60px;
 }
 
 #icon{
