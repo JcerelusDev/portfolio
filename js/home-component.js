@@ -66,7 +66,7 @@ template.innerHTML = `
     }
     
     60% {
-  color: green;
+  color: gold;
     }
     
     100% {
