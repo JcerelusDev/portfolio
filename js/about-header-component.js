@@ -29,8 +29,6 @@ height:160px;
 }
 
 #profileInfo{
- background: lightgrey;
- color:black;
  font-family: monospace;
   text-align: center;
  font-size: 17px;
@@ -53,8 +51,6 @@ height:160px;
 
 @media screen and (max-width:768px){
 #profileInfo{
- background: lightgrey;
- color:black;
  font-family: monospace;
  font-size: 16px;
  border-radius: 30px;
