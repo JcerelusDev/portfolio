@@ -22,6 +22,9 @@ template.innerHTML =`
 
 <div class="footer">
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
+<a href="https://www.facebook.com/jcerelus/"><i class="fa-fa-facebook"></i></a>
+<a href="https://www.facebook.com/jcerelus/"><i class="fa-fa-instagram"></i></a>
+
 </div>
 
 
