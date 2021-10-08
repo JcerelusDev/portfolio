@@ -24,12 +24,12 @@
 }
 
 .learnMore{
-    width: 140px;
-    height:40px;
+    width: 180px;
+    height:60px;
     background: black;
     border-radius: 14px;
     position: absolute;
-    top:70%;
+    top:68%;
   left:50%;
    transform:translate(-50%,-50%);
   cursor:pointer;
@@ -39,7 +39,7 @@
   color:white;
   text-align: center;
   text-decoration: none;
-   font-size: 20px;
+   font-size: 18px;
   font-family: monospace;
 }
 
@@ -65,7 +65,7 @@
     60% {
     font-size: 28px;
   font-family: courier new;
-  color: green;
+  color: gold;
     }
     
     100% {
