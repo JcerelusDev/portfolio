@@ -146,7 +146,7 @@ color:red;
 }
 
 .footer{
- background:#000;
+ background:#300;
   width:100vw;
   height:220px;
   position: fixed;
@@ -160,12 +160,12 @@ font-size:14px
 margin-top:3px;
 text-decoration:none;
 display:inline;
+margin-left: 170px;
 }
 
 #icon{
 width:30px;
 height:30px;
-padding-left: 170px;
 border-radius: 50%;
 
 }
