@@ -16,7 +16,7 @@ display: flex;
  font-size: 13px;
  font-weight: bold;
  font-style: italic;
-border-shadow: 0 0 10px black;
+box-shadow: 0 0 10px black;
  text-align: center;
  border-radius: 20px;
 }
@@ -25,10 +25,10 @@ border-shadow: 0 0 10px black;
 @media screen and (max-width:768px){
 
 .aboutcontainer{
-width:95vw;
+width:90vw;
 display: flex;
  justify-content: center;
-margin :0px auto;
+
 }
 
 
@@ -38,7 +38,7 @@ margin :0px auto;
  font-size: 13px;
  font-weight: bold;
  font-style: italic;
-border-shadow: 0 0 10px black;
+box-shadow: 0 0 10px black;
  text-align: center;
  border-radius: 20px;
 }  
