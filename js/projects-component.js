@@ -35,6 +35,7 @@ flex: 1 0 20%;
 margin:3%;
 //margin-bottom: 50px;
 box-shadow: 0 0 10px black;
+background:green;
 }
 
 .items a{
