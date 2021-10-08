@@ -29,14 +29,13 @@ height:160px;
 }
 
 #profileInfo{
-  border: 2px dotted black;
  background: lightgrey;
  color:black;
  font-family: monospace;
   text-align: center;
  font-size: 17px;
  border-radius: 20px;
- box-shadow: 2px 3px 1px black;
+ box-shadow: 0 0 10px black;
  font-weight: bold;
 }
 
@@ -48,20 +47,18 @@ height:160px;
   border-radius: 50%;
   background: white;
   margin-top:5px;
-  box-shadow: 1px 5px 1px black;
+  box-shadow: 0 0 10px black;
  
 }
 
 @media screen and (max-width:768px){
 #profileInfo{
-  
-  border: 2px dotted black;
  background: lightgrey;
  color:black;
  font-family: monospace;
  font-size: 16px;
  border-radius: 30px;
- box-shadow: 2px 3px 1px black;
+ box-shadow: 0 0 10px black;
  font-weight: bold;
 }
   
