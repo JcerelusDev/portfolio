@@ -77,7 +77,7 @@ height:160px;
 <div id="profileInfo">
 <img class="profile" src="img/jcere.png" widdth="100" height="100">
 <p class="fname">Firstname &Rarr;&nbsp;&nbsp;Jean . F</p>
-<p class="lname">Firstname &Rarr; &nbsp;&nbsp;C&Eacute;R&Eacute;LUS</p>
+<p class="lname">Lastname &Rarr; &nbsp;&nbsp;C&Eacute;R&Eacute;LUS</p>
 <p class="devname">Developer_name &Rarr;&nbsp;&nbsp;JcerelusDev.</p>
 </div>
 </div>
