@@ -96,17 +96,17 @@ font-weight:bold;
  font-size: 16px;
 }
 
-.footer a{
+.logolink{
 color:white;
 font-size:14px
 margin-top:3px;
 text-decoration:none;
 }
 
-.icon{
+#icon{
 width:30px;
 height:30px;
-margin-left: 170px;
+margin-left: 250px;
 border-radius: 50%;
 
 }
@@ -154,7 +154,7 @@ color:red;
 }
 
 
-.footer a{
+.logolink{
 color:white;
 font-size:14px
 margin-top:3px;
@@ -162,7 +162,7 @@ text-decoration:none;
 display:inline;
 }
 
-.icon{
+#icon{
 width:30px;
 height:30px;
 padding-left: 170px;
