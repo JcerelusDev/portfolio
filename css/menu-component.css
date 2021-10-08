@@ -99,15 +99,13 @@ font-weight:bold;
 .footer a{
 color:white;
 font-size:14px
-margin-top:10px;
+margin-top:3px;
 text-decoration:none;
-background:red;
 }
 
 .icon{
-width:10px;
-height:10px;
-background:white;
+width:30px;
+height:30px;
 margin-left: 170px;
 border-radius: 50%;
 
@@ -161,13 +159,12 @@ color:white;
 font-size:14px
 margin-top:3px;
 text-decoration:none;
-background:red;
+display:inline;
 }
 
 .icon{
-width:10px;
-height:10px;
-background:white;
+width:30px;
+height:30px;
 padding-left: 170px;
 border-radius: 50%;
 
