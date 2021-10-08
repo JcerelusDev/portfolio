@@ -26,8 +26,8 @@ template.innerHTML =`
 
 <div class="footer">
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
-<a class="logolink" href="https://www.facebook.com/jcerelus/"><img width="20" src="img/facebook.svg" id="icon"></a>
-<a class="logolink" href="https://www.facebook.com/jcerelus/"><img width="20" src="img/instagram.svg" id="icon"></a>
+<a class="logolink1" href="https://www.facebook.com/jcerelus/" target="_blank"><img width="20" src="img/facebook.svg" id="icon"></a>
+<a class="logolink2" href="https://www.facebook.com/jcerelus/" target="_blank"><img width="20" src="img/instagram.svg" id="icon"></a>
 
 </div>
 
@@ -43,7 +43,7 @@ export default class menuComponent extends HTMLElement{
    
  var openSidebar =   shadow.querySelector(".open");
     openSidebar.onclick = function( ){
-   var sidebar =  shadow.querySelector(".sidebar");
+  1war sidebar =  shadow.querySelector(".sidebar");
    sidebar.style.width = "140px";
    sidebar.style.transition="2s";
    sidebar.style.opacity=1;    
