@@ -119,4 +119,4 @@ export default class homeComponent extends HTMLElement{
 
 
 customElements.define("home-component",homeComponent);
-alert(5)
+
