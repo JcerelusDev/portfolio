@@ -94,7 +94,7 @@ if(e.target.className.includes("contact")){
 
 let  SidebarLink =   shadow.querySelectorAll(".sidebar a");
  for(let Sidelink of SidebarLink){
- Sidelink.onclick = autoClose;
+ Sidelink.ontouchstart = autoClose;
 
  }
  
