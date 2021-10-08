@@ -112,9 +112,10 @@ export default class homeComponent extends HTMLElement{
         
      var shadow = this.attachShadow({mode:"open"});    
    shadow.appendChild(template.content.cloneNode(true));   
-        
+        alert(shadow)
     }
 }
+
 
 
 customElements.define("home-component",homeComponent);
