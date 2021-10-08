@@ -23,7 +23,7 @@ export default View;
  var home_component =  document.createElement("home-component");
 
  export{home_component};
-document.title.innerHTML ="JcerelusDev_Portfolio";
+document.title ="JcerelusDev_Portfolio";
 
 window.addEventListener( "load", function(){
     renderMenu();
