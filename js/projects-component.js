@@ -168,7 +168,7 @@ font-weight:bold;
 .items p{
  text-align:left;
  font-size:14px;
- font-family:cursive;
+ font-family:monospace;
 }
 
  .content7 h3{
