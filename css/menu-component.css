@@ -33,7 +33,7 @@ margin-left: 55px;
     left:65%;
     width:50px;
     height:50px;
-    top:3%;
+    top:4%;
   }
   
   
@@ -68,7 +68,8 @@ margin-left: 55px;
 
 .link:hover{
  background: orange;   
- color:black;   
+ color:white;   
+font-weight:bold;
 }
 
 
@@ -95,7 +96,7 @@ margin-left: 55px;
  font-size: 16px;
 }
 
-.footer a{
+.footer a.fab{
 color:white;
 font-size:14px
 padding-left: 60px;
@@ -103,7 +104,7 @@ margin-top:10px;
 text-decoration:none;
 }
 
-.fa{
+.fab{
 color:white;
 
 
@@ -140,7 +141,6 @@ color:red;
 }
 
 .navbar .picture{
- //display:none;
  margin-left: -20%;
 }
 
