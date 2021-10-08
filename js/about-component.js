@@ -35,9 +35,8 @@ margin: 0px auto;
  #aboutcontent{
  margin-top: 10px;
  font-family: verdana;
- font-size: 13px;
+ font-size: 15px;
  font-weight: bold;
- font-style: italic;
 box-shadow: 0 0 10px black;
  text-align: center;
  border-radius: 20px;
@@ -50,8 +49,8 @@ box-shadow: 0 0 10px black;
 <div class="aboutcontainer">
 <div id="aboutcontent">
 <p class="abouttext">
-I have been a web developer since August 2018.<br>
-Precisely i started with Javascript as a programming language in March 2019.<br><br>
+I have been a web developer since August 2018.
+Precisely i started with <br>Javascript as a programming language in March 2019.<br>
 Since that period i worked hard to become an experimented web developer <br>
 by creating multiple projects. <br><br>
 As a web developer  i have a good interest in games development,<br>
