@@ -25,8 +25,8 @@ template.innerHTML =`
 
 
 <div class="footer">
-<a class="logolink1" href="https://www.facebook.com/jcerelus/" target="_blank"><img width="20" src="img/facebook.svg" id="icon"></a>
-<a class="logolink2" href="https://www.instagram.com/tv/CDnQjGdFzoi/?utm_medium=copy_link" target="_blank"><img width="20" src="img/instagram.svg" id="icon"></a>
+<a class="logolink1" href="https://www.facebook.com/jcerelus/" target="_blank"><img width="20" src="img/facebook.svg" class="linkIcon"></a>
+<a class="logolink2" href="https://www.instagram.com/tv/CDnQjGdFzoi/?utm_medium=copy_link" target="_blank"><img width="20" src="img/instagram.svg" id="linkIcon"></a>
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
 </div>
 
