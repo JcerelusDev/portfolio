@@ -43,7 +43,7 @@ export default class menuComponent extends HTMLElement{
    
  var openSidebar =   shadow.querySelector(".open");
     openSidebar.onclick = function( ){
-  1war sidebar =  shadow.querySelector(".sidebar");
+  var sidebar =  shadow.querySelector(".sidebar");
    sidebar.style.width = "140px";
    sidebar.style.transition="2s";
    sidebar.style.opacity=1;    
