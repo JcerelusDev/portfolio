@@ -162,24 +162,22 @@ color:red;
 
 .logolink1{
 position:absolute;
-width:30px;
-height:30px;
-top: 55px;
+width:20px;
+height:20px;
+top: 75px;
 background:green;
 left: 120px;
 
-border-radius:50%;
 }
 
 .logolink2{
 position:absolute;
-width:30px;
-height:30px;
+width:20px;
+height:20px;
 top:35px;
 background:green;
-left: 140px;
+left: 130px;
 
-border-radius:50%;
 }
 
 
