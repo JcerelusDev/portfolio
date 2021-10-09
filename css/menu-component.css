@@ -97,27 +97,31 @@ font-weight:bold;
 }
 
 .logolink1{
-font-size:14px
-margin-top:3px;
-text-decoration:none;
+position:absolute;
+width:20px;
+height:20px;
+top: 10px;
+background:white;
+left: 35%;
+border-radius:50%;
 }
 
 .logolink2{
-font-size:14px
-margin-top:3px;
-text-decoration:none;
+position:absolute;
+width:20px;
+height:20px;
+top:10px;
+background:white;
+left: 45%;
+border-radius:50%;
 }
 
 
 .linkIcon{
-width:30px;
-height:30px;
-
-border-radius: 50%;
+width:90%;
+height:90%;
 
 }
-
-
 @media screen and (min-width:769px){
 .open{
   display:none;
@@ -152,7 +156,7 @@ color:red;
 }
 
 .footer{
- background:blue;
+ background:#000;
   width:100vw;
   height:300px;
   position: fixed;
@@ -162,28 +166,28 @@ color:red;
 
 .logolink1{
 position:absolute;
-width:30px;
-height:30px;
+width:20px;
+height:20px;
 top: 10px;
 background:white;
-left: 18%;
+left: 35%;
 border-radius:50%;
 }
 
 .logolink2{
 position:absolute;
-width:30px;
-height:30px;
+width:20px;
+height:20px;
 top:10px;
 background:white;
-left: 28%;
+left: 45%;
 border-radius:50%;
 }
 
 
 .linkIcon{
-width:95%;
-height:95%;
+width:90%;
+height:90%;
 
 }
 
