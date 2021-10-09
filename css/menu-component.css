@@ -99,27 +99,27 @@ font-weight:bold;
 
 .logolink1{
 position:absolute;
-width:30px;
-height:30px;
+width:15px;
+height:15px;
 top: 10px;
-left: 40%;
-border-radius:50%;
+left: 30%;
+
 }
 
 .logolink2{
 position:absolute;
-width:30px;
-height:30px;
+width:15px;
+height:15px;
 top:10px;
-left: 55%;
-border-radius:50%;
+left: 45%;
+
 }
 
 
 .linkIcon{
 width:100%;
 height:100%;
-
+border-radius:50%;
 }
 
 
@@ -171,30 +171,6 @@ font-family:monospace;
 }
 
 
-.logolink1{
-position:absolute;
-width:30px;
-height:30px;
-top: 10px;
-left: 40%;
-border-radius:50%;
-}
-
-.logolink2{
-position:absolute;
-width:30px;
-height:30px;
-top:10px;
-left: 55%;
-border-radius:50%;
-}
-
-
-.linkIcon{
-width:100%;
-height:100%;
-
-}
 
 
  
