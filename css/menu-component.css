@@ -152,7 +152,7 @@ color:red;
 }
 
 .footer{
- background:pink;
+ background:gray;
   width:100vw;
   height:300px;
   position: fixed;
@@ -164,9 +164,8 @@ color:red;
 position:absolute;
 width:30px;
 height:30px;
-top: 35px;
-background:white;
-z-index:9999;
+top: 55px;
+background:green;
 left: 120px;
 
 border-radius:50%;
@@ -177,8 +176,7 @@ position:absolute;
 width:30px;
 height:30px;
 top:35px;
-background:white;
-z-index:9999;
+background:green;
 left: 140px;
 
 border-radius:50%;
@@ -186,8 +184,8 @@ border-radius:50%;
 
 
 .linkIcon{
-width:15px;
-height:15px;
+width:100%;
+height:100%;
 border-radius: 50%;
 
 
