@@ -165,19 +165,19 @@ position:absolute;
 width:20px;
 height:20px;
 top: 75px;
-background:green;
-left: 120px;
-
+background:white;
+left: 130px;
+border-radius:50%;
 }
 
 .logolink2{
 position:absolute;
 width:20px;
 height:20px;
-top:35px;
-background:green;
-left: 130px;
-
+top:75px;
+background:white;
+left: 160px;
+border-radius:50%;
 }
 
 
