@@ -97,24 +97,22 @@ font-weight:bold;
 }
 
 .logolink1{
-color:white;
 font-size:14px
 margin-top:3px;
 text-decoration:none;
 }
 
 .logolink2{
-color:white;
 font-size:14px
 margin-top:3px;
 text-decoration:none;
 }
 
 
-#icon{
+.linkIcon{
 width:30px;
 height:30px;
-margin-left: 250px;
+
 border-radius: 50%;
 
 }
@@ -163,10 +161,10 @@ color:red;
 
 
 .logolink1{
-position:fixed;
+position:absolute;
 width:30px;
 height:30px;
-top: 5px;
+top: 15px;
 background:red;
 text-decoration:none;
 z-index:9999;
@@ -179,7 +177,7 @@ border-radius:50%;
 position:absolute;
 width:30px;
 height:30px;
-top:5px;
+top:15px;
 background:white;
 text-decoration:none;
 z-index:9999;
