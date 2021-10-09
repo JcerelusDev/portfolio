@@ -103,7 +103,7 @@ background-size:var(--bgSize);
  background-position:right;
 }
 
-
+/*
 .content9{
 background: url(img/tictactoe.png) no-repeat;
 background-size:var(--bgSize);
@@ -116,7 +116,7 @@ background-size:var(--bgSize);
  background-position:right;
 }
 
-
+*/
 
 
 .items h3{
