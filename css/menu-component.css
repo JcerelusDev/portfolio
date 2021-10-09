@@ -164,8 +164,10 @@ color:red;
 
 .logolink1{
 position:relative;
-top: 13px;
-color:white;
+width:100px;
+height:100px;
+top: 5px;
+background:white;
 text-decoration:none;
 z-index:9999;
 left: 120px;
@@ -175,8 +177,10 @@ border-radius:50%;
 
 .logolink2{
 position:relative;
-top:13px;
-color:white;
+width:100px;
+height:100px;
+top:5px;
+background:white;
 text-decoration:none;
 z-index:9999;
 left: 150px;
@@ -189,7 +193,7 @@ border-radius:50%;
 width:10px;
 height:10px;
 border-radius: 50%;
-background:white;
+
 
 }
 
