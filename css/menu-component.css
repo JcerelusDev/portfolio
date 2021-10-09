@@ -164,21 +164,22 @@ color:red;
 
 .logolink1{
 position:relative;
-top: -3px;
-color:white;
-text-decoration:none;
-z-index:9999;
-left: -140px;
-}
-
-.logolink2{
-position:relative;
-top:-3px;
+top: 13px;
 color:white;
 text-decoration:none;
 z-index:9999;
 left: 90px;
+background:white;
+}
 
+.logolink2{
+position:relative;
+top:13px;
+color:white;
+text-decoration:none;
+z-index:9999;
+left: 120px;
+background:white;
 }
 
 
