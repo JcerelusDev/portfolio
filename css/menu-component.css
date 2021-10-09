@@ -163,7 +163,7 @@ color:red;
 
 
 .logolink1{
-position:relative;
+position:fixed;
 width:30px;
 height:30px;
 top: 5px;
@@ -176,11 +176,11 @@ border-radius:50%;
 }
 
 .logolink2{
-position:relative;
+position:absolute;
 width:30px;
 height:30px;
 top:5px;
-background:red;
+background:white;
 text-decoration:none;
 z-index:9999;
 left: 150px;
