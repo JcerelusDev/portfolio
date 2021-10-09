@@ -168,8 +168,9 @@ top: 13px;
 color:white;
 text-decoration:none;
 z-index:9999;
-left: 90px;
-background:white;
+left: 120px;
+font-size:100px;
+border-radius:50%;
 }
 
 .logolink2{
@@ -178,8 +179,9 @@ top:13px;
 color:white;
 text-decoration:none;
 z-index:9999;
-left: 120px;
-background:white;
+left: 150px;
+font-size:100px;
+border-radius:50%;
 }
 
 
