@@ -83,7 +83,7 @@ font-weight:bold;
 .footer{
  background:#000;
   width:100vw;
-  height:180px;
+  height:140px;
   position: fixed;
 
 }
@@ -93,7 +93,8 @@ font-weight:bold;
  color:white;
  font-family: courier;
  line-height: 105px;
- font-size: 14px;
+ font-size: 16px;
+font-weight:bold;
 }
 
 .logolink1{
@@ -104,7 +105,7 @@ top: 10px;
 background:white;
 left: 40%;
 border-radius:50%;
-box-shadow: 0 0 8px royalblue;
+box-shadow: 0 0 8px white;
 }
 
 .logolink2{
@@ -115,7 +116,7 @@ top:10px;
 background:white;
 left: 55%;
 border-radius:50%;
-box-shadow: 0 0 8px royalblue;
+box-shadow: 0 0 8px white;
 }
 
 
@@ -165,6 +166,12 @@ color:red;
 
 }
 
+.copy{
+font-size:13px;
+font-weight:bold;
+font-family:monospace;
+}
+
 
 .logolink1{
 position:absolute;
@@ -174,7 +181,7 @@ top: 10px;
 background:white;
 left: 40%;
 border-radius:50%;
-box-shadow: 0 0 8px royalblue;
+box-shadow: 0 0 8px white;
 }
 
 .logolink2{
@@ -185,7 +192,7 @@ top:10px;
 background:white;
 left: 55%;
 border-radius:50%;
-box-shadow: 0 0 8px royalblue;
+box-shadow: 0 0 8px white;
 }
 
 
