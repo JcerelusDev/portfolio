@@ -152,7 +152,7 @@ color:red;
 }
 
 .footer{
- background:blue;
+ background:pink;
   width:100vw;
   height:300px;
   position: fixed;
@@ -164,9 +164,8 @@ color:red;
 position:absolute;
 width:30px;
 height:30px;
-top: 15px;
-background:red;
-text-decoration:none;
+top: 35px;
+background:white;
 z-index:9999;
 left: 120px;
 
@@ -177,19 +176,18 @@ border-radius:50%;
 position:absolute;
 width:30px;
 height:30px;
-top:15px;
+top:35px;
 background:white;
-text-decoration:none;
 z-index:9999;
-left: 150px;
+left: 140px;
 
 border-radius:50%;
 }
 
 
 .linkIcon{
-width:20px;
-height:20px;
+width:15px;
+height:15px;
 border-radius: 50%;
 
 
