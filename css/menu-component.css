@@ -102,8 +102,9 @@ width:20px;
 height:20px;
 top: 10px;
 background:white;
-left: 35%;
+left: 48%;
 border-radius:50%;
+box-shadow: 0 0 15px dodgerblue;
 }
 
 .logolink2{
@@ -112,8 +113,9 @@ width:20px;
 height:20px;
 top:10px;
 background:white;
-left: 45%;
+left: 55%;
 border-radius:50%;
+box-shadow: 0 0 15px dodgerblue;
 }
 
 
@@ -170,8 +172,9 @@ width:20px;
 height:20px;
 top: 10px;
 background:white;
-left: 35%;
+left: 48%;
 border-radius:50%;
+box-shadow: 0 0 15px dodgerblue;
 }
 
 .logolink2{
@@ -180,8 +183,9 @@ width:20px;
 height:20px;
 top:10px;
 background:white;
-left: 45%;
+left: 55%;
 border-radius:50%;
+box-shadow: 0 0 15px dodgerblue;
 }
 
 
