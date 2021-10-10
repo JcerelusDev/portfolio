@@ -12,7 +12,7 @@ template.innerHTML = `
 
 h3{
    text-align:center;
-   font: 24px  italic bold tahoma ;
+   font: 24px  bold cursive;
 }
 
 .container{
