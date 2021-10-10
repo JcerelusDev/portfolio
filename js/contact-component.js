@@ -98,13 +98,13 @@ enctype="multipart/form-data" name="form">
 <fieldset>
 <legend class="title">&Rarr; Contact Me &Larr;</legend>
 <br
-<label>Fullname &nbsp; : <input class="text" type="text" laceholder="your fullname" name="subject" required autocomplete="true"></label><br><br>
+<label>Fullname &nbsp; : <input class="text" type="text" laceholder="your fullname" name="subject" required autocomplete="off"></label><br><br>
 </fieldset><br><br>
 
 <fieldset>
 <legend>&Rarr; Contact Message &Larr;</legend>
 <br>
-<textarea rows="8" cols="35" name="body" autocomplete="true"></textarea><br><br>
+<textarea rows="8" cols="35" name="body" autocomplete="false"></textarea><br><br>
 <input class="btn" type="submit" value="Submit"><br><br>
 </fieldset>
 </form>
