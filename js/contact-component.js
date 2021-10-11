@@ -93,18 +93,18 @@ margin-bottom: 120px;
 <div class="contactcontainer">
 <div id="contactcontent">
 
-<form  action="mailto:johnjustme8@gmail.com" method="POST"
+<form  action="mailto:johnjustme8@gmail.com" method="get"
 enctype="text/plain" name="form">
 <fieldset>
 <legend class="title">&Rarr; Contact Me &Larr;</legend>
 <br
-<label>Fullname &nbsp; : <input class="text" type="text" laceholder="your fullname" name="subject" required autocomplete="false"></label><br><br>
+<label>Fullname &nbsp; : <input class="text" type="text" laceholder="your fullname" name="subject" required ></label><br><br>
 </fieldset><br><br>
 
 <fieldset>
 <legend>&Rarr; Contact Message &Larr;</legend>
 <br>
-<textarea rows="8" cols="35" name="body" autocomplete="false"></textarea><br><br>
+<textarea rows="8" cols="35" name="body"></textarea><br><br>
 <input class="btn" type="submit" value="Submit"><br><br>
 </fieldset>
 </form>
