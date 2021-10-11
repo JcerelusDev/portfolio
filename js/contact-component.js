@@ -24,8 +24,6 @@ margin-top: -100px;
 }
 
 #contactcontent{
-width:100%;
-height:50%;
 text-align: center;
 background:royalblue;
 border-radius: 30px;
@@ -85,8 +83,19 @@ margin-top: 50px;
 background:royalblue;
 border-radius: 20px;
 color:white;
-margin-bottom: 140px;
+margin-bottom: 100px;
 }  
+
+#contactcontent{
+width:100%;
+height:50%;
+text-align: center;
+background:royalblue;
+border-radius: 30px;
+color:white;
+margin:3%;
+}
+
    
 }
 
