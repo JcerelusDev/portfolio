@@ -79,7 +79,7 @@ border-radius: 30px;
 @media screen and (max-width:768px){
  #contactcontent{
 text-align: center;
-margin-top: 50px;
+margin-top: 30px;
 background:royalblue;
 border-radius: 20px;
 color:white;
@@ -88,7 +88,7 @@ margin-bottom: 100px;
 
 #contactcontent{
 width:100%;
-height:50%;
+height:70%;
 text-align: center;
 background:royalblue;
 border-radius: 30px;
