@@ -25,7 +25,7 @@ margin-top: -100px;
 
 #contactcontent{
 width:90%;
-height:90%;
+height:50%;
 text-align: center;
 background:royalblue;
 border-radius: 30px;
