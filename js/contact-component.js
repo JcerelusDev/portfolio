@@ -24,6 +24,8 @@ margin-top: -100px;
 }
 
 #contactcontent{
+width:90%;
+height:90%;
 text-align: center;
 background:royalblue;
 border-radius: 30px;
@@ -79,11 +81,11 @@ border-radius: 30px;
 @media screen and (max-width:768px){
  #contactcontent{
 text-align: center;
-margin-top: 40px;
+margin-top: 50px;
 background:royalblue;
-border-radius: 30px;
+border-radius: 20px;
 color:white;
-margin-bottom: 120px;
+margin-bottom: 140px;
 }  
    
 }
