@@ -24,7 +24,7 @@ margin-top: -100px;
 }
 
 #contactcontent{
-width:90%;
+width:100%;
 height:50%;
 text-align: center;
 background:royalblue;
