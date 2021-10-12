@@ -34,7 +34,7 @@ margin:3%;
 textarea{
   font-family: courier;
   font-size: 14px;
-  
+  text-align: center;
 }
 
 form {
@@ -71,9 +71,13 @@ border:none;
  color:white;
  border-radius: 20px;
 }
+input{
+text-align: center;
+}
 
 input[type="text"]{
 border-radius: 30px;
+text-align: center;
 }
 
 @media screen and (max-width:768px){
