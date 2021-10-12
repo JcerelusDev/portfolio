@@ -97,7 +97,7 @@ margin-bottom: 120px;
 <div class="contactcontainer">
 <div id="contactcontent">
 
-<form  action="MAILTO:johnjustme8@gmail.com" method="POST" enctype="text/plain">
+<form  action="https://mail.google.com/mail/mu/mp/857/#co" method="POST" enctype="text/plain">
 <fieldset>
 <legend class="title">&Rarr; Contact Me &Larr;</legend>
 <br
