@@ -79,23 +79,12 @@ border-radius: 30px;
 @media screen and (max-width:768px){
  #contactcontent{
 text-align: center;
-margin-top: 20px;
+margin-top: 40px;
 background:royalblue;
 border-radius: 30px;
 color:white;
 margin-bottom: 120px;
 }  
-
-#contactcontent{
-width:100%;
-height:60%;
-text-align: center;
-background:royalblue;
-border-radius: 30px;
-color:white;
-margin:3%;
-}
-
    
 }
 
