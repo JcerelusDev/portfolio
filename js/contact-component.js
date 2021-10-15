@@ -38,7 +38,7 @@ textarea{
 }
 
 form {
- font-family: helvetica;
+ font-family: cursive;
  font-size: 16px;
  font-weight: bold;
 
