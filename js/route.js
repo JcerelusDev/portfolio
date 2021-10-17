@@ -13,24 +13,29 @@ export default function routing(){
   
   if(hash == "#/"){
     path="home.html";
+document.title="Home";
  
   }
   
 if(hash == "#/projects"){
     path ="projects.html";
+  document.title="Projects";
      
 }
   
   if(hash == "#/about"){
      path ="about.html";
+  document.title="About Me";
   }
   
   if(hash == "#/contact"){
     path="contact.html";
+  document.title="Contact Me";
   }
   
   if(hash == undefined || hash == "#/"+undefined){
     hash = "#/";
+  document.title="JcerelusDev";
   }
   
   
