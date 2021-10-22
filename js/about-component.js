@@ -41,6 +41,7 @@ overflow:hidden;
 box-shadow: 0px 0px 10px black;
  text-align: center;
  border-radius: 20px;
+background:red;
 }  
    
 }
