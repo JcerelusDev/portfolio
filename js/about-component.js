@@ -34,11 +34,11 @@ overflow:hidden;
 
 
  #aboutcontent{
- margin-top: 10px;
+ margin-top: 8px;
  font-family: verdana;
  font-size: 15px;
  font-weight: bold;
-box-shadow: 0 0 10px black;
+box-shadow: 0px 0px 10px black;
  text-align: center;
  border-radius: 20px;
 }  
