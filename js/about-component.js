@@ -34,14 +34,14 @@ overflow:hidden;
 
 
  #aboutcontent{
- margin-top: 8px;
+ margin-top: 6px;
  font-family: verdana;
  font-size: 15px;
  font-weight: bold;
-box-shadow: 0px 0px 10px black;
+ box-shadow: 0  0  10px. black;
  text-align: center;
  border-radius: 20px;
-background:red;
+
 }  
    
 }
