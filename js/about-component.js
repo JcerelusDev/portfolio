@@ -25,11 +25,11 @@ box-shadow: 0 0 10px black;
 @media screen and (max-width:768px){
 
 .aboutcontainer{
-width:90vw;
-display: flex;
+ width:90vw;
+ display: flex;
  justify-content: center;
-margin: 0px auto;
-overflow:hidden;
+ margin: 0px auto;
+ overflow:hidden;
 }
 
 
