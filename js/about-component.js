@@ -29,6 +29,7 @@ width:90vw;
 display: flex;
  justify-content: center;
 margin: 0px auto;
+overflow:hidden;
 }
 
 
