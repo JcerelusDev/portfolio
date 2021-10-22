@@ -14,7 +14,7 @@ box-sizing: border-box;
 h3{
  text-align: center;
  font-family: courier;
- padding-bottom: 2px;
+ margin-top: 9px;
  font-size: 22px;
 }
 
