@@ -38,9 +38,9 @@ box-shadow: 0 0 10px black;
  font-family: verdana;
  font-size: 15px;
  font-weight: bold;
- box-shadow: 0  0  10px. black;
+ box-shadow: 0  0  10px black;
  text-align: center;
- border-radius: 20px;
+ border-radius: 30px;
 
 }  
    
