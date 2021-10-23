@@ -117,7 +117,7 @@ let  SidebarLink =   shadow.querySelectorAll(".sidebar a");
 
     
     
-   shadow.querySelector(".footer").style.top= innerHeight -70+"px"; 
+   shadow.querySelector(".footer").style.top= innerHeight -50+"px"; 
     
     }  
 }
