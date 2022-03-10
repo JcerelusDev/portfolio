@@ -7,7 +7,7 @@ template.innerHTML = `
 width:100vw;
 display: flex;
  justify-content: center;
-
+padding-bottom:0px;
 }
 
 #aboutcontent{
@@ -29,6 +29,7 @@ width:95vw;
 display: flex;
  justify-content: center;
 margin :0px auto;
+padding-bottom:0px;
 }
 
 
