@@ -18,7 +18,7 @@ display: flex;
  font-style: italic;
 box-shadow: 0 0 10px black;
  text-align: center;
- border-radius: 0px;
+ 
 }
 
 
