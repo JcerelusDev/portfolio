@@ -18,7 +18,7 @@ display: flex;
  font-style: italic;
 border : 5px double black;
  text-align: center;
- border-radius: 20px;
+
 }
 
 
@@ -40,7 +40,7 @@ margin :0px auto;
  font-style: italic;
 border : 3px double black;
  text-align: center;
- border-radius: 20px;
+ 
 }  
    
 }
