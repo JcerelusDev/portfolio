@@ -31,6 +31,7 @@ box-shadow: 0px 0px 9px black;
  margin: 0px auto;
  overflow:hidden;
 border-radius: 30px;
+margin-bottom:200px;
 }
 
 
