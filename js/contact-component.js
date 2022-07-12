@@ -8,7 +8,7 @@ template.innerHTML = `
 margin:0;
 padding:0;
 box-sizing: border-box;
-
+font-family:monospace;
 }
 
 .contactcontainer{
@@ -35,13 +35,16 @@ textarea{
   font-family: courier;
   font-size: 14px;
   text-align: center;
+outline:none;
+border:none;
 }
 
 form {
  font-family: cursive;
  font-size: 16px;
  font-weight: bold;
-
+outline:none;
+border:none;
 }
 
 legend{
@@ -58,7 +61,8 @@ legend{
 }
 
 fieldset{
-border:none;
+outline:none;
+border:none;;
 
 }
 
@@ -73,11 +77,15 @@ border:none;
 }
 input{
 text-align: center;
+outline:none;
+border:none;
 }
 
-input[type="text"]{
+input[type="text"],input[type="email"]{
 border-radius: 30px;
 text-align: center;
+outline:none;
+border:none;
 }
 
 @media screen and (max-width:768px){
