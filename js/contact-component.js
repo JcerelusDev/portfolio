@@ -8,7 +8,7 @@ template.innerHTML = `
 margin:0;
 padding:0;
 box-sizing: border-box;
-font-family:monospace;
+
 }
 
 .contactcontainer{
@@ -40,7 +40,7 @@ border:none;
 }
 
 form {
- font-family: cursive;
+ font-family: courier;
  font-size: 16px;
  font-weight: bold;
 outline:none;
@@ -82,7 +82,7 @@ border:none;
 }
 
 input[type="text"]{
-border-radius: 30px;
+border-radius: 12px;
 text-align: center;
 outline:none;
 border:none;
