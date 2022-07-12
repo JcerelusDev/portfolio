@@ -13,7 +13,7 @@ template.innerHTML =`
     <a class="link projects" href="#projects">My_Projects</a>
      <a class="link about" href="#about">About_Me</a>
       <a class="link contact" href="#contact">Contact_Me</a>
-      <a href="#/about" ><img class="picture" src="img/jcere.png" ></a>
+      <a href="#about" ><img class="picture" src="img/jcere.png" ></a>
 </div>
 
 <div class="sidebar">
