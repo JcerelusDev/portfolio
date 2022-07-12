@@ -8,7 +8,7 @@ template.innerHTML =`
 -->
 
 <div class="navbar">
- <a class="open" href="#!"><i class="fab fa-bars"></i></a>
+ <a class="open" href="#"><i class="fab fa-bars"></i></a>
    <a class="link home" href="/">Home</a>
     <a class="link projects" href="#/projects">My_Projects</a>
      <a class="link about" href="#/about">About_Me</a>
