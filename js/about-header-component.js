@@ -25,7 +25,7 @@ width:100vw;
 display: flex;
 justify-content: center;
 height:160px;
-margin-bottom:200px;
+margin-bottom:130px;
 }
 
 #profileInfo{
