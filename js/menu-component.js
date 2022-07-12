@@ -7,7 +7,7 @@ template.innerHTML =`
 
 <div class="navbar">
  <a class="open" href="#!">&equiv;</a>
-   <a class="link home" href="#/">Home</a>
+   <a class="link home" href="/">Home</a>
     <a class="link projects" href="#/projects">My_Projects</a>
      <a class="link about" href="#/about">About_Me</a>
       <a class="link contact" href="#/contact">Contact_Me</a>
@@ -16,7 +16,7 @@ template.innerHTML =`
 
 <div class="sidebar">
  <a class="close" href="#!">&times;</a>
-   <a class="link home" href="#/">Home</a>
+   <a class="link home" href="/">Home</a>
     <a class="link projects" href="#/projects">My_Projects</a>
      <a class="link about" href="#/about">About_Me</a>
       <a class="link contact" href="#/contact">Contact_Me</a> 
@@ -43,7 +43,7 @@ export default class menuComponent extends HTMLElement{
  var openSidebar =   shadow.querySelector(".open");
     openSidebar.onclick = function( ){
   var sidebar =  shadow.querySelector(".sidebar");
-   sidebar.style.width = "140px";
+   sidebar.style.width = "350px";
    sidebar.style.transition="2s";
    sidebar.style.opacity=1;    
      openSidebar.display="none";    
