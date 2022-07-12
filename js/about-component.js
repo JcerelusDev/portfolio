@@ -30,7 +30,7 @@ box-shadow: 0px 0px 9px black;
  justify-content: center;
  margin: 0px auto;
  overflow:hidden;
-
+border-radius: 30px;
 }
 
 
