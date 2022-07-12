@@ -1,4 +1,4 @@
-/*import "./all.min.css";*/
+
 
 let template = document.createElement("template");
 template.innerHTML =`
