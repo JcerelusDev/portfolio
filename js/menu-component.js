@@ -28,7 +28,7 @@ template.innerHTML =`
 
 <div class="footer">
 
-<div class="logolink1"><i class="fa-brands fa-facebook linkIcon"  ><a  href="https://www.facebook.com/jcerelus/" target="_blank"></a></i></div>
+<div class="logolink1"><i class="fa-brands fa-facebook linkIcon"  ></i><a  href="https://www.facebook.com/jcerelus/" target="_blank"></a></div>
 <div class="logolink2"><a href="https://www.instagram.com/jcerelus/" target="_blank"><img src="img/insta.png" class="linkIcon"></a></div>
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
 </div>
