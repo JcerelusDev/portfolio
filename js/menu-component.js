@@ -28,8 +28,8 @@ template.innerHTML =`
 
 <div class="footer">
 
-<div class="logolink1"><i class="fa-brands fa-facebook"  ></i><a  href="https://www.facebook.com/jcerelus/" target="_blank"></a></div>
-<div class="logolink2"><a href="https://www.instagram.com/jcerelus/" target="_blank"><img src="img/insta.png" ></a></div>
+<div class="logolink1"><a  href="https://www.facebook.com/jcerelus/" target="_blank"><i class="fa-brands fa-facebook"  ></i></a></div>
+<div class="logolink2"><a href="https://www.instagram.com/jcerelus/" target="_blank"><i class="fa-brands fa-instagram-square"></i> </a></div>
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
 </div>
 
