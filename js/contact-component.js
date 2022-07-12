@@ -81,7 +81,7 @@ outline:none;
 border:none;
 }
 
-input[type="text"],input[type="email"]{
+input[type="text"]{
 border-radius: 30px;
 text-align: center;
 outline:none;
