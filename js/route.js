@@ -1,7 +1,7 @@
 import Ajaxy  from "./ajaxy.js";
 import View from "./index.js";
 import {home_component} from "./index.js";
-import "./all.mim.js";
+
 
 var path;
 
