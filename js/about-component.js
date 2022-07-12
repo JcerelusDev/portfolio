@@ -7,7 +7,7 @@ template.innerHTML = `
 width:100vw;
 display: flex;
  justify-content: center;
-
+box-shadow: 0px 0px 9px black;
 }
 
 #aboutcontent{
