@@ -56,6 +56,7 @@ height:160px;
  border-radius: 30px;
  box-shadow: 0 0 10px black;
  font-weight: bold;
+margin-bottom:140px;
 }
   
    
