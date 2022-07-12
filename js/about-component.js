@@ -16,7 +16,7 @@ display: flex;
  font-size: 13px;
  font-weight: bold;
  font-style: italic;
-
+box-shadow: 0px 0px 9px black;
  text-align: center;
  
 }
@@ -30,7 +30,7 @@ display: flex;
  justify-content: center;
  margin: 0px auto;
  overflow:hidden;
-box-shadow: 0 0 10px black;
+
 }
 
 
@@ -39,7 +39,7 @@ box-shadow: 0 0 10px black;
  font-family: verdana;
  font-size: 15px;
  font-weight: bold;
- box-shadow: 0  0  10px black;
+ box-shadow: 0px  0px  10px black;
  text-align: center;
  border-radius: 30px;
 
