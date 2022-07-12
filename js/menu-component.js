@@ -8,7 +8,7 @@ template.innerHTML =`
 -->
 
 <div class="navbar">
- <a class="open" href="#!"><i class="fab fa-bars"></i></a>
+ <a class="open" href="#"><i class="fab fa-bars"></i></a>
    <a class="link home" href="/">Home</a>
     <a class="link projects" href="#/projects">My_Projects</a>
      <a class="link about" href="#/about">About_Me</a>
@@ -17,7 +17,7 @@ template.innerHTML =`
 </div>
 
 <div class="sidebar">
- <a class="close" href="#!">&times;</a>
+ <a class="close" href="#">&times;</a>
    <a class="link home" href="/">Home</a>
     <a class="link projects" href="#/projects">My_Projects</a>
      <a class="link about" href="#/about">About_Me</a>
@@ -45,7 +45,7 @@ export default class menuComponent extends HTMLElement{
  var openSidebar =   shadow.querySelector(".open");
     openSidebar.onclick = function( ){
   var sidebar =  shadow.querySelector(".sidebar");
-   sidebar.style.width = "350px";
+   sidebar.style.width = "100%";
    sidebar.style.transition="2s";
    sidebar.style.opacity=1;    
      openSidebar.display="none";    
