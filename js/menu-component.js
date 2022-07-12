@@ -8,7 +8,7 @@ template.innerHTML =`
 
 
 <div class="navbar">
- <a class="open" href="#"> <i class="fa-solid fa-bars"> </a>
+ <a class="open"> <i class="fa-solid fa-bars"> </a>
    <a class="link home" href="/">Home</a>
     <a class="link projects" href="#projects">My_Projects</a>
      <a class="link about" href="#about">About_Me</a>
@@ -17,7 +17,7 @@ template.innerHTML =`
 </div>
 
 <div class="sidebar">
- <a class="close" href="#">&times;</a>
+ <a class="close">&times;</a>
    <a class="link home" href="/">Home</a>
     <a class="link projects" href="#projects">My_Projects</a>
      <a class="link about" href="#about">About_Me</a>
