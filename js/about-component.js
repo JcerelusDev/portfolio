@@ -11,7 +11,7 @@ display: flex;
 }
 
 #aboutcontent{
- margin-top: 10px;
+ margin-top: 2px;
  font-family: verdana;
  font-size: 13px;
  font-weight: bold;
@@ -25,12 +25,12 @@ box-shadow: 0px 0px 9px black;
 @media screen and (max-width:768px){
 
 .aboutcontainer{
- width:90vw;
+ width:80vw;
  display: flex;
  justify-content: center;
  margin: 0px auto;
  overflow:hidden;
-border-radius: 30px;
+border-radius: 12px;
 margin-bottom:200px;
 }
 
@@ -42,7 +42,7 @@ margin-bottom:200px;
  font-weight: bold;
  box-shadow: 0px  0px  10px black;
  text-align: center;
- border-radius: 30px;
+ border-radius: 8px;
 
 }  
    
