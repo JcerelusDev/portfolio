@@ -100,7 +100,7 @@ font-size:18px;
 <div class="container">
 <p  class="para1">Being a Web Developer is <span class="awesome">Awesome !</span></p>
 
-<button class="learnMore" ><a href="#/about" >Learn More</a></button>
+<button class="learnMore" ><a href="#about" >Learn More</a></button>
 
 </div>
 
