@@ -11,7 +11,7 @@ export default function routing(){
 
  let  hash = location.hash;
   
-  if(hash == "#/"){
+  if(hash == "/"){
     path="home.html";
 document.title="Home";
  
@@ -23,12 +23,12 @@ if(hash == "#/projects"){
      
 }
   
-  if(hash == "#/about"){
+  if(hash == "#about"){
      path ="about.html";
   document.title="About Me";
   }
   
-  if(hash == "#/contact"){
+  if(hash == "#contact"){
     path="contact.html";
   document.title="Contact Me";
   }
@@ -51,7 +51,7 @@ if(hash == "#/projects"){
 }
 
  if(performance.navigation.type == performance.navigation.TYPE_RELOAD){
-    location.hash="#/";
+    location.hash="/";
     
   }
 
