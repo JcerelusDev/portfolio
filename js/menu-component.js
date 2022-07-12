@@ -29,7 +29,7 @@ template.innerHTML =`
 <div class="footer">
 
 <div class="logolink1"><a  href="https://www.facebook.com/jcerelus/" target="_blank"> <i class="fab fa-facebook-f"></i> </a></div>
-<div class="logolink2"><a href="https://www.instagram.com/jcerelus/" target="_blank"><i class="fa-brands fa-instagram-square"></i> </a></div>
+<div class="logolink2"><a href="https://www.instagram.com/jcerelus/" target="_blank"><i class="fab fa-instagram"></i> </a></div>
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
 </div>
 
