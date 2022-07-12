@@ -108,8 +108,8 @@ margin-bottom: 120px;
 <fieldset>
 <legend class="title">&Rarr; Contact Me &Larr;</legend>
 <br
-<label>Fullname &nbsp; : <input class="text" type="text" placeholder="your fullname" name="subject" required ></label><br><br>
-<label>E-mail &nbsp;&nbsp; : <input class="text" type="email" placeholder="your email" name="email" required ></label><br><br>
+<label>Fullname&nbsp;: <input class="text" type="text" placeholder="your fullname" name="subject" required ></label><br><br>
+<label>E-mail&nbsp;&nbsp;: <input class="text" type="email" placeholder="your email" name="email" required ></label><br><br>
 
 </fieldset><br><br>
 
