@@ -4,29 +4,30 @@ let template = document.createElement("template");
 template.innerHTML =`
 <link rel="styleSheet" href="css/menu-component.css">
 
-<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
--->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 <div class="navbar">
  <a class="open" href="#"><i class="fab fa-bars"></i></a>
    <a class="link home" href="/">Home</a>
-    <a class="link projects" href="#/projects">My_Projects</a>
-     <a class="link about" href="#/about">About_Me</a>
-      <a class="link contact" href="#/contact">Contact_Me</a>
+    <a class="link projects" href="#projects">My_Projects</a>
+     <a class="link about" href="#about">About_Me</a>
+      <a class="link contact" href="#contact">Contact_Me</a>
       <a href="#/about" ><img class="picture" src="img/jcere.png" ></a>
 </div>
 
 <div class="sidebar">
  <a class="close" href="#">&times;</a>
    <a class="link home" href="/">Home</a>
-    <a class="link projects" href="#/projects">My_Projects</a>
-     <a class="link about" href="#/about">About_Me</a>
-      <a class="link contact" href="#/contact">Contact_Me</a> 
+    <a class="link projects" href="#projects">My_Projects</a>
+     <a class="link about" href="#about">About_Me</a>
+      <a class="link contact" href="#contact">Contact_Me</a> 
 </div>
 
 
 
 <div class="footer">
+<i class="fab fafacebook fab fa-facebook fas fa-facebook"></i>
 <div class="logolink1"><a  href="https://www.facebook.com/jcerelus/" target="_blank"><img  src="img/facebook.png" class="linkIcon"></a></div>
 <div class="logolink2"><a href="https://www.instagram.com/jcerelus/" target="_blank"><img src="img/insta.png" class="linkIcon"></a></div>
 <p class="copy">&copy;jcerelusdev 2021 All Rights Reserved.</p>
