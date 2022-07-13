@@ -104,7 +104,7 @@ margin-bottom: 120px;
 
 <div class="contactcontainer">
 <div id="contactcontent">
-<form  action="https://formsubmit.co/johnjustme8@gmail.com " method="POST" enctype="text/plain" target="_blank">
+<form  action="https://formsubmit.co/e306636959462a543e34ddb845694d6f" method="POST" enctype="text/plain" target="_blank">
 <fieldset>
 <legend class="title">&Rarr; Contact Me &Larr;</legend>
 <br
