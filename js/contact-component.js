@@ -116,7 +116,7 @@ margin-bottom: 120px;
 <fieldset>
 <legend>&Rarr; Contact Message &Larr;</legend>
 <br>
-<textarea rows="8" cols="35" name="body"></textarea><br><br>
+<textarea rows="8" cols="35" name="message"></textarea><br><br>
 <input class="btn" type="submit" value="Submit"><br><br>
 </fieldset>
 </form>
