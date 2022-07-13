@@ -56,7 +56,7 @@ legend{
 
 .title{
    line-height: 42px;
-   font-family: cursive;
+   font-family: monospace;
    font-size: 20px;
 }
 
